@@ -23,11 +23,3 @@ For delopyment purpose, Please run "npm run build", then the front-end bundle an
 Not all Cnode APIs has been built into this app. There are still some interesting apis in [Cnode](https://cnodejs.org/). You can feel free to clone this project and build them up.
 
 Considering this is a public api for learning purpose, sometime api will not work or request will be denied. Don't worry about this, just waiting a little while, I belive author of Cnode will fix it quickly.
-# Cnode-proxy
-# Cnode-proxy
-# Cnode-proxy
-# Cnode-proxy
-# Cnode-proxy
-# Cnode-proxy
-# Cnode-proxy
-# Cnode-proxy
